@@ -1,0 +1,7 @@
+Executable : /Users/Quoc_Anh/Library/Android/sdk/cmake/3.18.1/bin/ninja
+arguments : 
+-C
+/Users/Quoc_Anh/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/Debug/506cq1e8/armeabi-v7a
+opencv_jni_shared
+jvmArgs : 
+

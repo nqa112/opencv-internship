@@ -1,0 +1,3 @@
+/Users/Quoc_Anh/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/Debug/506cq1e8/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/Quoc_Anh/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/Debug/506cq1e8/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/Quoc_Anh/AndroidStudioProjects/OpenCV-android-sdk/sdk/.cxx/Debug/506cq1e8/arm64-v8a/CMakeFiles/opencv_jni_shared.dir

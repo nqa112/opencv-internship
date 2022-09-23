@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/Quoc_Anh/Downloads/OpenCV-android-sdk/sdk/.cxx/Debug/6819rx1x/armeabi-v7a",
+  "command": "/Users/Quoc_Anh/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/Quoc_Anh/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/Quoc_Anh/Library/Android/sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/darwin-x86_64/sysroot    -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/opencv_jni_shared.dir/dummy.cpp.o -c /Users/Quoc_Anh/Downloads/OpenCV-android-sdk/sdk/libcxx_helper/dummy.cpp",
+  "file": "/Users/Quoc_Anh/Downloads/OpenCV-android-sdk/sdk/libcxx_helper/dummy.cpp"
+}
+]
