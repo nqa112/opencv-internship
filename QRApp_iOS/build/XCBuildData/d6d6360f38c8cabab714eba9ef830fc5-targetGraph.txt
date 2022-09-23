@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+QRCodeFramework in QRApp, no dependencies
+QRApp in QRApp, depends on:
+QRCodeFramework in QRApp (explicit)

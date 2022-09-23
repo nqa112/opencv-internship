@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "44a0c457d87bd4080e8261ae229993492414e66b77bfd7f2a0ac1490d9c1cf01"
+build_start_time: [1639218123, 794399976]
+build_end_time: [1639218124, 915333032]
+inputs:
+  "/Users/Quoc_Anh/OpenCV_Swift/QRApp/QRApp/AppDelegate.swift": [1639205375, 851422786]
+  "/Users/Quoc_Anh/OpenCV_Swift/QRApp/QRApp/SceneDelegate.swift": [1639205375, 859433174]
+  "/Users/Quoc_Anh/OpenCV_Swift/QRApp/QRApp/ViewController.swift": [1639214584, 280699253]

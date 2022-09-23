@@ -3,3 +3,4 @@ FaceDetect_Android/README.md filter=lfs diff=lfs merge=lfs -text
 FaceDetect_Android/facedetectionx filter=lfs diff=lfs merge=lfs -text
 FaceDetect_Android/project-structure.png filter=lfs diff=lfs merge=lfs -text
 FaceDetect_Android/OpenCV-android-sdk filter=lfs diff=lfs merge=lfs -text
+QRApp_iOS/QRCodeFramework/opencv2.framework/Versions/A/opencv2 filter=lfs diff=lfs merge=lfs -text
