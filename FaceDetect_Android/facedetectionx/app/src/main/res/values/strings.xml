@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">face-detection-x</string>
+    <string name="canvasContentDescription">draw rectangle bounding box over detected face.</string>
+</resources>
